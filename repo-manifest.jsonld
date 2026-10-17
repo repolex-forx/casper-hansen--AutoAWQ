@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/casper-hansen/AutoAWQ/commit/88e4c76b20755db275574e6a03c83c84ba3bece5",
       "git:hexsha": "88e4c76b20755db275574e6a03c83c84ba3bece5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.9"
     },
     {
