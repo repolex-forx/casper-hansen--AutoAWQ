@@ -1,0 +1,11 @@
+{
+  "org": "casper-hansen",
+  "repo": "AutoAWQ",
+  "versions": [
+    {
+      "commit": "88e4c76b20755db275574e6a03c83c84ba3bece5",
+      "tag": "v0.2.9",
+      "parsed_at": "2026-10-17T13:51:04.529839+00:00"
+    }
+  ]
+}
